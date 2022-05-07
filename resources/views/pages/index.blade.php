@@ -5,7 +5,7 @@
 
 <section class="hero-wrap">
     <div class="home-slider owl-carousel js-fullheight">
-        <div class="slider-item js-fullheight" style="background-image:url(images/bg_1.jpg);">
+        <div class="slider-item js-fullheight" style="background-image:url(images/feanebck.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center">
@@ -37,9 +37,43 @@
     </div>
 </section>
 
+{{-- for about --}}
+<section class="about_section layout_padding">
+    <div class="container  ">
+
+      <div class="row">
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="images/aboutUsimg.png" alt="about us">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                We Are Feane
+              </h2>
+            </div>
+            <p>
+              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
+              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
+              the middle of text. All
+            </p>
+            <a href="/about">
+              Read More
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{{-- end about --}}
 
 
-<section class="ftco-section ftco-wrap-about ftco-no-pb ftco-no-pt">
+
+{{-- <section class="ftco-section ftco-wrap-about ftco-no-pb ftco-no-pt">
     <div class="container">
         <div class="row no-gutters">
             <div class="col-sm-4 p-4 p-md-5 d-flex align-items-center justify-content-center bg-primary">
@@ -119,7 +153,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 <section class="ftco-section ftco-intro" style="background-image: url(images/bg_3.jpg);">
     <div class="overlay"></div>
@@ -128,12 +162,13 @@
             <div class="col-md-12 text-center">
                 <span>Now Booking</span>
                 <h2>Private Dinners &amp; Happy Hours</h2>
+                <button class="button-49" role="button">BOOK NOW!</button>
             </div>
         </div>
     </div>
 </section>
 
-<section class="ftco-section">
+{{-- <section class="ftco-section">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
             <div class="col-md-7 text-center heading-section ftco-animate">
@@ -350,7 +385,7 @@
                     <span class="flat flaticon-ice-cream" style="right: 0;"></span>
                 </div>
             </div>
-            
+
             <div class="col-md-6 col-lg-4">
                 <div class="menu-wrap">
                     <div class="heading-menu text-center ftco-animate">
@@ -457,7 +492,7 @@
         </div>
     </div>
 
-</section>
+</section> --}}
 
 <section class="ftco-section testimony-section" style="background-image: url(images/bg_5.jpg);">
     <div class="overlay"></div>
@@ -554,7 +589,7 @@
                 <span class="subheading">Chef</span>
                 <h2 class="mb-4">Our Master Chef</h2>
             </div>
-        </div>	
+        </div>
         <div class="row">
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
