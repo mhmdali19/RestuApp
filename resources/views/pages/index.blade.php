@@ -73,7 +73,7 @@
 
 
 
-
+{{-- for booking --}}
 <section class="ftco-section ftco-intro" style="background-image: url(images/bg_3.jpg);">
     <div class="overlay"></div>
     <div class="container">
@@ -86,6 +86,7 @@
         </div>
     </div>
 </section>
+{{-- end booking --}}
 
 
 
